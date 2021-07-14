@@ -10,3 +10,4 @@ My activites:
 - ⚡ Fun fact: I'm a developer,learner
 - ⚡ That's all for now!!!!!
 - `[yarison][allain][uwenayo]`
+<!-- - ![visitors](https://visitor-badge.glitch.me/badge?page_id=uwenayoallain.uwenayoallain) -->
