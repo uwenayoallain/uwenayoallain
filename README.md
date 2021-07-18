@@ -15,5 +15,3 @@ My activites:
 [![uwenayoallain](https://github-readme-stats.vercel.app/api/wakatime?username=uwenayoallain)](https://github.com/anuraghazra/github-readme-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=uwenayoallain.uwenayoallain)
-
-[![wakatime](https://wakatime.com/badge/github/uwenayoallain/uwenayoallain.com.svg)](https://wakatime.com/badge/github/uwenayoallain/uwenayoallain.com)
