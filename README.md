@@ -12,6 +12,7 @@ My activites:
 
 [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uwenayoallain&hide=Eagle&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![uwenayoallain's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uwenayoallain&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![uwenayoallain's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uwenayoallain&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=uwenayoallain.uwenayoallain) [![wakatime](https://wakatime.com/badge/github/uwenayoallain/uwenayoallain.com.svg)](https://wakatime.com/badge/github/uwenayoallain/uwenayoallain.com)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=uwenayoallain.uwenayoallain) 
+<!-- [![wakatime](https://wakatime.com/badge/github/uwenayoallain/uwenayoallain.com.svg)](https://wakatime.com/badge/github/uwenayoallain/uwenayoallain.com) -->
