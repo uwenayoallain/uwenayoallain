@@ -14,5 +14,7 @@ My activites:
 
 <!-- [![uwenayoallain's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uwenayoallain&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
+![trophy](https://github-profile-trophy.vercel.app/?username=gamer13alone&row=1&column=7&theme=flat&theme=alduin&margin-w=25&margin-h=25)
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=uwenayoallain.uwenayoallain) 
 <!-- [![wakatime](https://wakatime.com/badge/github/uwenayoallain/uwenayoallain.com.svg)](https://wakatime.com/badge/github/uwenayoallain/uwenayoallain.com) -->
