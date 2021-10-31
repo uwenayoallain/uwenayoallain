@@ -7,6 +7,8 @@ My activites:
 * 👯 open source is awesome
 * ⚡ Fun fact: I'm a developer,learner
 * ⚡ That's all for now
+### i like reading.
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/uwenayoallain/uwenayoallain/blob/master/devcard.svg" width="400" alt="Yarison Allain's Dev Card"/></a>
 
 [![uwenayoallain's github stats](https://github-readme-stats.vercel.app/api?username=uwenayoallain&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
