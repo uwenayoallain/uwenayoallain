@@ -1,6 +1,6 @@
 # Uwenayo Alain Pacifique
 
-![Profile Picture](https://avatars.githubusercontent.com/u/74071036?v=4)
+![Profile Picture](https://avatars.githubusercontent.com/u/66881609?v=4)
 
 <a href="https://app.daily.dev/uwenayoallain"><img src="https://github.com/uwenayoallain/uwenayoallain/blob/main/devcard.svg" width="400" alt="Alain's Dev Card"/></a>
 
