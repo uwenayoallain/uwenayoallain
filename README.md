@@ -2,8 +2,6 @@
 
 ![Profile Picture](https://avatars.githubusercontent.com/u/66881609?v=4)
 
-<a href="https://app.daily.dev/uwenayoallain"><img src="https://github.com/uwenayoallain/uwenayoallain/blob/main/devcard.svg" width="400" alt="Alain's Dev Card"/></a>
-
 ## 🌍 About Me
 Hi, I'm **Alain**, a passionate full-stack developer from **Rwanda** with a mission to build scalable, user-friendly, and impactful tech solutions.
 
@@ -18,7 +16,7 @@ Hi, I'm **Alain**, a passionate full-stack developer from **Rwanda** with a miss
 - **DevOps**: Docker, Kubernetes,Github Actions, GitLab CI/CD
 
 ---
-
+<a href="https://app.daily.dev/uwenayoallain"><img src="https://github.com/uwenayoallain/uwenayoallain/blob/main/devcard.svg" width="400" alt="Alain's Dev Card"/></a>
 
 ## 📬 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/uwenayoallain)
